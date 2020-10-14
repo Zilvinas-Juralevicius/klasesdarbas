@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Mano pirmas puslapis</h1>
+<p>Mano pirmas paragrafas.</p>
+
+<p id="ats"></p>
+
+<script>
+    let n1 = 3;
+    let n2 = 4;
+    let n3 = (n1 - 2) * 180;
+    let n4 = (n2 - 2) * 180;
+    let suma1 = "Suma 1 =" + " " + n3 + " " + "<br>";
+    let suma2 = "Suma 2 =" + " " + n4 + " " + "<br>";
+    let suma3 = "Bemdra suma =" + " " + (n3+n4);
+    let suma4 = suma1 + suma2 + suma3;
+    document.getElementById('ats').innerHTML = suma4;
+
+</script>
+
+</body>
+</html>

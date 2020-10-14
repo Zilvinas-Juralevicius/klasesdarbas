@@ -1,4 +1,36 @@
-<html>
-<head></head>
-<body>Labas pasauli</body>
+<html lang="lt">
+<head>
+    <meta charset="utf-8"/>
+    <title>Mano puslapis</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/layout.css">
+    <link rel="stylesheet" href="CSS/dizainas.css">
+    <link rel="stylesheet" href="CSS/elemantai.css">
+
+</head>
+<body>
+<header>Headeris</header>
+<nav class="active">
+    <a onclick="pakeistipuslapi(this, 'about')">Apie</a>
+    <a onclick="pakeistipuslapi(this, 'contacts')">contacts</a>
+    <a onclick="pakeistipuslapi(this, 'portfolio')">porfolio</a>
+</nav>
+
+
+<aside>Rekalma</aside>
+
+    <main>Turinys</main>
+
+<main>
+    <section id="about">1</section>
+    <section id="portfolio">2</section>
+    <section id="contacts">3</section>
+</main>
+
+<footer id="elementas">Visos teises saugomos 2020&copy</footer>
+
+    <script src="JavaScript/navigacija.js"></script>
+<script src="JavaScript/Skaiciavimas.js"></script>
+</body>
 </html>

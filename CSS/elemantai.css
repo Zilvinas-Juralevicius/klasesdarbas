@@ -1,0 +1,14 @@
+/* Animacijos kodas */
+@keyframes mano_animacija {
+    from {background-color: aquamarine;}
+    to {background-color: yellow;}
+}
+
+/* Elementas kuriam taikysime animacija */
+#elementas {
+    width: auto;
+    height: auto;
+    background-color: red;
+    animation-name: mano_animacija;
+    animation-duration: 4s;
+}

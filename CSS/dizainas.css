@@ -1,0 +1,29 @@
+header, footer {
+    background-color: white;
+}
+
+main, aside {
+    border: none;
+}
+
+main {
+    background-color: aquamarine;
+}
+
+div {
+    background-color: blue;
+}
+
+main > section{
+    display: none;
+}
+
+#contacts {
+    display: block;
+}
+.active{
+    color: orangered;
+    font-size: 32px;
+    padding-right: 8px;
+    margin-bottom: 8px;
+}
