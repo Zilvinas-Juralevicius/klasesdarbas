@@ -11,26 +11,31 @@
 </head>
 <body>
 <header>Headeris</header>
-<nav class="active">
-    <a onclick="pakeistipuslapi(this, 'about')">Apie</a>
-    <a onclick="pakeistipuslapi(this, 'contacts')">contacts</a>
-    <a onclick="pakeistipuslapi(this, 'portfolio')">porfolio</a>
+<nav>
+    <a href="#about" class="active">Apie</a>
+    <a href="#contacts">contacts</a>
+    <a href="#portfolio">porfolio</a>
 </nav>
 
 
 <aside>Rekalma</aside>
 
-    <main>Turinys</main>
+
 
 <main>
     <section id="about">1</section>
     <section id="portfolio">2</section>
-    <section id="contacts">3</section>
+    <section id="contacts">
+        <div id="forma"></div>
+    </section>
 </main>
 
 <footer id="elementas">Visos teises saugomos 2020&copy</footer>
 
-    <script src="JavaScript/navigacija.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script src="JavaScript/navigacija.js"></script>
 <script src="JavaScript/Skaiciavimas.js"></script>
+<script src="JavaScript/test_jquery.js"></script>
 </body>
 </html>

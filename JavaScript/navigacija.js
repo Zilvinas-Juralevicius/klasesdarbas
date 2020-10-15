@@ -14,3 +14,33 @@ function pakeistiPusplapi (maniuElem, pslId) {
 //let defaultElem = document.querySelector('active')[0];
 let defaultElem = document.querySelector('nav a:last-child');
 pakeistiPusplapi( defaultElem, 'contacts');
+
+$(function (){
+    $('header > a').click(function(e){
+        pakeistiTaba($(this).attr('href'));
+        e.preventDefault()
+    });
+
+    function pakeistiTaba (id) {
+        $('.main > section').hide();
+        $(id).show();
+        pakeistiTaba()
+    }
+});
+
+    $(function (){
+        $('header nav > a').clickfunction(e){
+            pakeistiTaba($(this).attr('href'));
+            priskirtiKlase('active',this);
+            e.preventDefault()
+        });
+        function pakeistiTaba (id) {
+            $('main > section').hide();
+            $(id).show();
+        }
+        function priskirtiKlase(klasesvaedas, el){
+            $('header nav > a').removeClass(klasesvaedas);
+            $(el).addClass(klasesvaedas);
+        }
+        pakeistiTaba('#about');
+    });
