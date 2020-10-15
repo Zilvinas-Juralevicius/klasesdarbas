@@ -1,46 +1,36 @@
-let turiniai = document.querySelectorAll('main > section');
-let meniuElementai = document.querySelectorAll('header nav > a')
+// let turiniai = document.querySelectorAll('main > section');
+// let meniuElementai = document.querySelectorAll('header nav > a');
+// // let defaultElem = document.querySelector('nav a:first-child');
+// let defaultElem = document.getElementsByClassName('active')[0];
+//
+// function pakesitiPuslapi (meniuElem, pslId) {
+//     for (let i = 0; turiniai.length > i; i++) {
+//         turiniai[i].style.display ='none';
+//         meniuElementai[i].classList.remove('active');
+//     }
+//     meniuElem.classList.add('active');
+//     document.getElementById(pslId).style.display = 'block';
+// }
+// // Default puslapis kuris bus matomas uzkrovus tinklalapi
+// pakesitiPuslapi(defaultElem, 'about');
 
-function pakeistiPusplapi (maniuElem, pslId) {
-    for (var i = 0; turiniai.length > i; i++) {
-        turiniai[i].style.display ='none';
-        meniuElementai[i].classList.remove('active');
-    }
-    meniuElem.addClass.add('active');
-    document.getElementById(pslId).style.display = 'block';
-}
 
-// Default puslapis kuris bus uzkrovus tinklapi
-//let defaultElem = document.querySelector('active')[0];
-let defaultElem = document.querySelector('nav a:last-child');
-pakeistiPusplapi( defaultElem, 'contacts');
-
-$(function (){
-    $('header > a').click(function(e){
+$(function(){
+    $('header nav > a').click(function(e){
         pakeistiTaba($(this).attr('href'));
+        priskirtiKlase('active', this);
         e.preventDefault()
     });
 
     function pakeistiTaba (id) {
-        $('.main > section').hide();
+        $('main > section').hide();
         $(id).show();
-        pakeistiTaba()
     }
-});
 
-    $(function (){
-        $('header nav > a').clickfunction(e){
-            pakeistiTaba($(this).attr('href'));
-            priskirtiKlase('active',this);
-            e.preventDefault()
-        });
-        function pakeistiTaba (id) {
-            $('main > section').hide();
-            $(id).show();
-        }
-        function priskirtiKlase(klasesvaedas, el){
-            $('header nav > a').removeClass(klasesvaedas);
-            $(el).addClass(klasesvaedas);
-        }
-        pakeistiTaba('#about');
-    });
+    function priskirtiKlase(klasesvardas, el){
+        $('header nav > a').removeClass(klasesvardas);
+        $(el).addClass(klasesvardas);
+    }
+
+    pakeistiTaba('#about');
+});

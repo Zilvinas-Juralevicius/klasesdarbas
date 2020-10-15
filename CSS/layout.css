@@ -5,11 +5,11 @@ html, body {
 body {
     display: grid;
     grid-template-areas:
-    'h h h'
-    'a m m'
-    'f f f';
-    grid-auto-columns: 250px auto auto;
-    grid-auto-rows: 100px auto 200px;
+            'h h h'
+            'a m m'
+            'f f f';
+    grid-template-columns: 265px auto auto;
+    grid-template-rows: 100px auto 200px;
     grid-gap: 15px;
 }
 
@@ -29,14 +29,13 @@ footer {
     grid-area: f;
 }
 
-
 /* Extra maži įrenginiai (telefonai, 600px ir žemiau) */
 @media only screen and (max-width: 600px) {
     body{
         grid-template-areas:
-    'h'
-    'm'
-    'f';
+            'h'
+            'm'
+            'f';
         grid-template-columns: auto;
         grid-template-rows: auto;
     }
@@ -53,11 +52,12 @@ footer {
 @media only screen and (min-width: 768px) {
     body{
         grid-template-areas:
-    'h h '
-    'a m '
-    'f f ';
-        grid-template-columns: 100 auto;
+            'h h'
+            'm a'
+            'f f';
+        grid-template-columns: auto 265px;
         grid-template-rows: auto;
+    }
 }
 
 /* Dideli įrenginiai (laptopai, staliniai PC, 992px ir aukščiau) */

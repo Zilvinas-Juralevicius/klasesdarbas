@@ -1,29 +1,45 @@
-header, footer {
-    background-color: white;
+header {
+    padding: 10px;
+    background-color: #BADA55;
+}
+aside {
+    padding-left: 15px;
+}
+footer {
+    text-align: right;
+    padding: 10px;
+    background-color: #333634;
+    color: white;
 }
 
-main, aside {
-    border: none;
+header {
+    display: grid;
+    grid-template-columns: 200px auto;
+    text-align: center;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-main {
-    background-color: aquamarine;
+nav > a {
+    font-size: 28px;
+    border-right: 3px solid white;
+    padding-right: 10px;
+    margin-left: 10px;
+    color: #000;
+    text-decoration: none;
 }
 
-div {
-    background-color: blue;
+nav > a:last-of-type {
+    border-right: none;
 }
 
-main > section{
-    display: none;
-}
-
-#contacts {
-    display: block;
-}
-.active{
-    color: orangered;
+.active {
+    color: #3a7349;
     font-size: 32px;
     padding-right: 8px;
-    margin-bottom: 8px;
+    margin-left: 8px;
+
 }

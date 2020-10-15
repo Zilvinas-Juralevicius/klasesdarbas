@@ -1,14 +1,39 @@
+main img {
+    float: left;
+    margin: 0 10px 10px 0;
+    border: 1px solid darkgray;
+    padding: 5px;
+}
+
 /* Animacijos kodas */
 @keyframes mano_animacija {
-    from {background-color: aquamarine;}
-    to {background-color: yellow;}
+    0% {background-color: red;}
+    25% {background-color: blue;}
+    50% {background-color: green;}
+    75% {background-color: white;}
+    100% {background-color: red;}
 }
 
 /* Elementas kuriam taikysime animacija */
 #elementas {
-    width: auto;
-    height: auto;
+    width: 100px;
+    height: 100px;
     background-color: red;
     animation-name: mano_animacija;
-    animation-duration: 4s;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+body {
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
