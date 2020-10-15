@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02e818bf-8b9c-4735-ac59-73f6b582939a" name="Default Changelist" comment="paskaitos pabaiga">
+      <change beforePath="$PROJECT_DIR$/JavaScript/test_jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/test_jquery.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iEr7OHF3BgQbpGcdELXu43rVB3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../guitarauction" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zilvi\OneDrive\Desktop\klasesdarbas\JavaScript" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="navigacija.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/navigacija.js" working-dir="$PROJECT_DIR$/JavaScript">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.navigacija.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02e818bf-8b9c-4735-ac59-73f6b582939a" name="Default Changelist" comment="" />
+      <created>1601483424353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601483424353</updated>
+      <workItem from="1601483425477" duration="5749000" />
+      <workItem from="1601493887334" duration="1150000" />
+      <workItem from="1601532779483" duration="2904000" />
+      <workItem from="1601565749761" duration="10092000" />
+      <workItem from="1601817860395" duration="16486000" />
+      <workItem from="1601836336813" duration="15000" />
+      <workItem from="1601836639359" duration="252000" />
+      <workItem from="1601896980520" duration="776000" />
+      <workItem from="1601911188638" duration="7384000" />
+      <workItem from="1601997888059" duration="8853000" />
+      <workItem from="1602084001080" duration="2724000" />
+      <workItem from="1602088264323" duration="4613000" />
+      <workItem from="1602170313017" duration="5418000" />
+      <workItem from="1602415695659" duration="438000" />
+      <workItem from="1602416427465" duration="106000" />
+      <workItem from="1602416559577" duration="677000" />
+      <workItem from="1602516456773" duration="11255000" />
+      <workItem from="1602598824256" duration="9223000" />
+      <workItem from="1602689847297" duration="9873000" />
+      <workItem from="1602774747240" duration="9546000" />
+    </task>
+    <task id="LOCAL-00001" summary="Sukureme navigacija">
+      <created>1602697634994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602697634994</updated>
+    </task>
+    <task id="LOCAL-00002" summary="paskaita">
+      <created>1602785392766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602785392766</updated>
+    </task>
+    <task id="LOCAL-00003" summary="paskaitos pabaiga">
+      <created>1602786813859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602786813859</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sukureme navigacija" />
+    <MESSAGE value="paskaita" />
+    <MESSAGE value="paskaitos pabaiga" />
+    <option name="LAST_COMMIT_MESSAGE" value="paskaitos pabaiga" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1602173067928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1602173067928" />
+    <state x="451" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601570667765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601570667765" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1602416656469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602416656469" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1601535170958">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601535170958" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602786829782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1602786829782" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601919079674" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601918760976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601918760976" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1602002264214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602002264214" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602690650283">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1602690650283" />
+  </component>
+</project>
