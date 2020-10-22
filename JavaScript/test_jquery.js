@@ -1,4 +1,3 @@
-
 $(function(){
 
     $('header > img').click(function(){
@@ -6,6 +5,5 @@ $(function(){
     });
 
 
-    $('#forma').load('kontaktai.html');
 
 });

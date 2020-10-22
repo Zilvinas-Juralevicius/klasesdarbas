@@ -1,3 +1,8 @@
+<?php
+        $a = '<h1>Apie mane</h1>';
+        $b = '<h1>Kontaktai</h1>';
+?>
+
 <html lang="lt">
 <head>
     <meta charset="UTF-8"/>
@@ -30,7 +35,7 @@
 </aside>
 <main>
     <section id="about">
-        <h1>Apie mane</h1>
+        <?php echo $a ?>
         <img src="/img/profilis.jpg" alt="Tautvydas Dulskis">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem eos laboriosam ratione saepe! Autem delectus
         distinctio, dolor dolorem ex ipsa labore quae quia tenetur velit! Ad adipisci cum eos ipsum.
@@ -45,7 +50,7 @@
         <h1>Portfolio</h1>
     </section>
     <section id="contacts">
-        <h1>Kontaktai</h1>
+        <?php $b; ?>
         <div id="forma"></div>
     </section>
 </main>
