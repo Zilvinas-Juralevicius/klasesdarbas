@@ -1,7 +1,23 @@
 <?php
-Class Car {
+
+class Car
+{
     public string $spalva;
     public string $greitis;
-    public function vaziuoti(): void { echo "Automobilis vaziuoja". $this->greitis . "greicius";}
-    public function gautiSpalva(): string { return $this->spalva;}
+    private float $rida = 0;
+
+    public function vaziuoti(float $laikas = 1): void
+    {
+        echo "Automobilis vaziuoja" . $this->greitis. "greiciu";
+        $this->rida += (int)$this->greitis * $laikas;
+    }
+
+    public function gautiSpalva(): string
+    {
+        return $this->spalva;
+    }
+    public function gautiRida(): float;
+    {
+        return $this->rida;
+    }
 }

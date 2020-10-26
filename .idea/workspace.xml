@@ -19,46 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e818bf-8b9c-4735-ac59-73f6b582939a" name="Default Changelist" comment="paskaitos pabaiga">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/datos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/duomenys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/duomenys.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/includes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/includes2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/info.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/json.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/manoDuomenys.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/masyvai.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/nauji_duomenys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/sandauga.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/sausainioskaityuvas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/sausainis.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/skaityti_faila.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/skaityti_html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/skaityti_html2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/temperaturos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/trintisausaineli.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP kodas/uzduotys.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/info.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/car.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesijos/admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesijos/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesijos/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesijos/logout.php" afterDir="false" />
+    <list default="true" id="02e818bf-8b9c-4735-ac59-73f6b582939a" name="Default Changelist" comment="4 savaites pabaiga">
+      <change afterPath="$PROJECT_DIR$/oop/studentai/Grupe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/studentai/Spausdinimas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/studentai/Studentas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/studentai/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opp namu darbai/car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opp namu darbai/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opp namu darbai/kuras.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/formSubmit.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/formSubmit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/navigacija.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/navigacija.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/test_jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/test_jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP kodas/duomenys.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP kodas/duomenys.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/namudarbai/alus.html" beforeDir="false" afterPath="$PROJECT_DIR$/namudarbai/alus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/namudarbai/alus/alus2.html" beforeDir="false" afterPath="$PROJECT_DIR$/namudarbai/alus/alus2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/namudarbai/forma1.html" beforeDir="false" afterPath="$PROJECT_DIR$/namudarbai/forma1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/namudarbai/forma2.html" beforeDir="false" afterPath="$PROJECT_DIR$/namudarbai/forma2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/namudarbai/forma3.html" beforeDir="false" afterPath="$PROJECT_DIR$/namudarbai/forma3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/namudarbai/forma4.html" beforeDir="false" afterPath="$PROJECT_DIR$/namudarbai/forma4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/car.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/car.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +49,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iEr7OHF3BgQbpGcdELXu43rVB3" />
@@ -95,7 +71,7 @@
     <property name="last_opened_file_path" value="D:/Web darbai/brokeriskarolis" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -149,7 +125,11 @@
       <workItem from="1603123313687" duration="8719000" />
       <workItem from="1603206284891" duration="12375000" />
       <workItem from="1603293111654" duration="12541000" />
-      <workItem from="1603380577726" duration="1955000" />
+      <workItem from="1603380577726" duration="9672000" />
+      <workItem from="1603699884033" duration="10000" />
+      <workItem from="1603700861639" duration="716000" />
+      <workItem from="1603710037069" duration="2673000" />
+      <workItem from="1603729079342" duration="5711000" />
     </task>
     <task id="LOCAL-00001" summary="Sukureme navigacija">
       <created>1602697634994</created>
@@ -179,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602787261140</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4 savaites pabaiga">
+      <created>1603382953153</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603382953153</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,33 +188,56 @@
     <MESSAGE value="Sukureme navigacija" />
     <MESSAGE value="paskaita" />
     <MESSAGE value="paskaitos pabaiga" />
-    <option name="LAST_COMMIT_MESSAGE" value="paskaitos pabaiga" />
+    <MESSAGE value="4 savaites pabaiga" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 savaites pabaiga" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1602173067928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1602173067928" />
+    <state x="437" y="188" key="#Notifications" timestamp="1603700898189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1603700898189" />
     <state x="451" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601570667765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="451" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601570667765" />
+    <state x="476" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1603735287760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603735287760" />
+    <state x="568" y="138" width="515" height="451" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#function0" timestamp="1603385710164">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="138" width="515" height="451" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#function0/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603385710164" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1603010219010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603010219010" />
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1603382358737">
+    <state x="420" y="87" key="NewPhpClassDialog" timestamp="1603734783093">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603382358737" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1601535170958">
+    <state x="420" y="87" key="NewPhpClassDialog/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603734783093" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1603733130621">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601535170958" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602787146686">
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603733130621" />
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1603717158939" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1603735128305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1602787146686" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603735128305" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603700923179" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1603733295103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603733295103" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1603382957010">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603382957010" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601919079674" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601918760976">
       <screen x="0" y="0" width="1366" height="728" />
@@ -241,9 +251,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602002264214" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603304878258">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603735044872">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603304878258" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603735044872" />
   </component>
 </project>
