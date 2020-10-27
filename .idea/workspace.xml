@@ -19,17 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e818bf-8b9c-4735-ac59-73f6b582939a" name="Default Changelist" comment="4 savaites pabaiga">
-      <change afterPath="$PROJECT_DIR$/oop/studentai/Grupe.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/studentai/Spausdinimas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/studentai/Studentas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/studentai/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opp namu darbai/car.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opp namu darbai/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opp namu darbai/kuras.php" afterDir="false" />
+    <list default="true" id="02e818bf-8b9c-4735-ac59-73f6b582939a" name="Default Changelist" comment="5 savaites pradzia">
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/studentasapp.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Helper.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/car.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/car.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/studentai/Grupe.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Grupe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/studentai/Spausdinimas.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spausdinimas.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/studentai/Studentas.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Studentas.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/studentai/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/studentai/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +56,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iEr7OHF3BgQbpGcdELXu43rVB3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -76,6 +78,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zilvi\OneDrive\Desktop\klasesdarbas\src" />
       <recent name="C:\Users\zilvi\OneDrive\Desktop\klasesdarbas\PHP kodas" />
       <recent name="C:\Users\zilvi\OneDrive\Desktop\klasesdarbas\JavaScript" />
     </key>
@@ -129,7 +132,10 @@
       <workItem from="1603699884033" duration="10000" />
       <workItem from="1603700861639" duration="716000" />
       <workItem from="1603710037069" duration="2673000" />
-      <workItem from="1603729079342" duration="5711000" />
+      <workItem from="1603729079342" duration="8655000" />
+      <workItem from="1603800522835" duration="78000" />
+      <workItem from="1603815504601" duration="890000" />
+      <workItem from="1603818047756" duration="5537000" />
     </task>
     <task id="LOCAL-00001" summary="Sukureme navigacija">
       <created>1602697634994</created>
@@ -166,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603382953153</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="5 savaites pradzia">
+      <created>1603737978108</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603737978108</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,11 +198,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Sukureme navigacija" />
     <MESSAGE value="paskaita" />
     <MESSAGE value="paskaitos pabaiga" />
     <MESSAGE value="4 savaites pabaiga" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 savaites pabaiga" />
+    <MESSAGE value="5 savaites pradzia" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 savaites pradzia" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1602173067928">
@@ -204,10 +219,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="451" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601570667765" />
-    <state x="476" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1603735287760">
+    <state x="476" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1603738892768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="476" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603735287760" />
+    <state x="476" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603738892768" />
     <state x="568" y="138" width="515" height="451" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#function0" timestamp="1603385710164">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -251,9 +266,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602002264214" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603735044872">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603740250920">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603735044872" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603740250920" />
   </component>
 </project>
