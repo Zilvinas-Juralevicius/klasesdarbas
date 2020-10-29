@@ -20,17 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02e818bf-8b9c-4735-ac59-73f6b582939a" name="Default Changelist" comment="5 savaites pradzia">
-      <change afterPath="$PROJECT_DIR$/PHP kodas/exception.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/klasesdarbas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/klasesdarbas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/studentasapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/studentasapp.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/studentai/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/oop/studentai/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -39,6 +39,7 @@
         <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="composer.json" />
       </list>
     </option>
   </component>
@@ -49,6 +50,13 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1iEr7OHF3BgQbpGcdELXu43rVB3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -68,7 +76,7 @@
     <property name="last_opened_file_path" value="D:/Web darbai/brokeriskarolis" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -130,7 +138,12 @@
       <workItem from="1603729079342" duration="8655000" />
       <workItem from="1603800522835" duration="78000" />
       <workItem from="1603815504601" duration="890000" />
-      <workItem from="1603818047756" duration="7992000" />
+      <workItem from="1603818047756" duration="8035000" />
+      <workItem from="1603890858299" duration="51000" />
+      <workItem from="1603891378711" duration="18000" />
+      <workItem from="1603901992452" duration="2053000" />
+      <workItem from="1603904240285" duration="7658000" />
+      <workItem from="1603986317526" duration="913000" />
     </task>
     <task id="LOCAL-00001" summary="Sukureme navigacija">
       <created>1602697634994</created>
@@ -181,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603823931748</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="5 savaites pradzia">
+      <created>1603827736911</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603827736911</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,10 +237,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1603700898189" />
-    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603827201877">
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603904526944">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603827201877" />
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603904526944" />
     <state x="451" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601570667765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -237,6 +257,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603010219010" />
+    <state width="905" height="179" key="GridCell.Tab.0.bottom" timestamp="1603987909054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603987909054" />
+    <state width="905" height="179" key="GridCell.Tab.0.center" timestamp="1603987909054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603987909054" />
+    <state width="905" height="179" key="GridCell.Tab.0.left" timestamp="1603987909053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603987909053" />
+    <state width="905" height="179" key="GridCell.Tab.0.right" timestamp="1603987909054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603987909054" />
     <state x="420" y="87" key="NewPhpClassDialog" timestamp="1603734783093">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -246,20 +282,24 @@
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603825337559" />
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1603717158939" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1603735128305">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1603903934406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603735128305" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603903934406" />
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603700923179" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1603733295103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603733295103" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1603823933851">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1603827740262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603823933851" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603827740262" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601919079674" />
+    <state x="479" y="184" width="408" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1603912593667">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="184" width="408" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1366.728/-1920.-203.1920.1160@0.0.1366.728" timestamp="1603912593667" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601918760976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
