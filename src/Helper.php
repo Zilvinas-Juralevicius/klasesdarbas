@@ -60,4 +60,29 @@ class Helper
 
         return (new DateTime('now'))->diff($data)->days;
     }
+
+    public static function spausdintiLenteleje(array $items): void
+    {
+        echo '<table>
+                <th>
+                    <td>Pavadinimas</td>
+                    <td>Adresas</td>
+                    <td>Valstija</td>
+                    <td>Veiksmai</td>
+                </th>
+        ';
+        foreach ($items as $item) {
+            $pavadinimas = $item['pavadinimas'];
+            $adresas = $item['adresas'];
+            $valstija = $item['valstija'];
+            $veiskmai = "
+                    <a href='delete.php?id={$item['id']}'>[ SALINTI ]</a>
+                    <a href='view.php?id={$item['id']}'>[ ZIURETI ]</a>
+                    <a href='edit.php?id={$item['id']}'>[ REDAGUOTI ]</a>
+            ";
+            $row = "<td>$pavadinimas</td><td>$adresas</td><td>$valstija</td><td>$veiskmai</td>";
+            echo '<tr>'.$row.'</tr>';
+        }
+        echo '</table>';
+    }
 }

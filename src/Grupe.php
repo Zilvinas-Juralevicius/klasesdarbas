@@ -2,7 +2,6 @@
 
 namespace KCS;
 
-
 class Grupe
 {
     public const DEFAULT_LENGTH = 72;
